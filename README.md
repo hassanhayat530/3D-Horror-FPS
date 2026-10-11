@@ -4,6 +4,10 @@ A first-person 3D horror game built in Unity, in the style of games like Residen
 
 **Play it on itch.io:** [Project C](https://darthadox.itch.io/project-c)
 
+[![Let Go Trailer](https://img.youtube.com/vi/QyPdGu7i_v8/hqdefault.jpg)](https://www.youtube.com/watch?v=QyPdGu7i_v8)
+
+*Click the image to watch the trailer on YouTube.*
+
 ## Gameplay
 
 Explore a house, find keys and items, solve puzzles, and escape while being stalked. Items you pick up are kept in an inventory that you can open and use at any time.
